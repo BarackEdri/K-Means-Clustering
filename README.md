@@ -1,3 +1,3 @@
 # K-Means-Clustering
-Algorithm for solving the k-means clustering problem.
+A project in ML to address classification problems, using the k-means clustering.
 Written in both C and python.
